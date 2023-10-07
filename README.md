@@ -1,2 +1,2 @@
-# spectagram-stage-3
-project solution for c83
+# expo project link
+https://snack.expo.dev/@meesbaah8459/class-84-project-template
